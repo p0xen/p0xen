@@ -8,7 +8,7 @@
 
 ## 👋 About me
 
-🎓 Computer Science student from Greece<br>
+🎓 Computer Science student<br>
 🛠️ Working towards **backend development** with Node.js & Express<br>
 📚 Currently studying **JavaScript**<br>
 ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
