@@ -10,7 +10,7 @@
 
 🎓 Computer Science student from Greece<br>
 🛠️ Working towards **backend development** with Node.js & Express<br>
-📚 Currently going deep on **JavaScript**<br>
+📚 Currently studying **JavaScript**<br>
 ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
 
 ## 💻 Tech Stack
